@@ -85,3 +85,12 @@ npm run dev
 ```
 php artisan serve
 ```
+
+## Menjalankan Task Scheduler
+```
+php artisan schedule:work
+```
+atau untuk testing
+```
+php artisan schedule:run
+```
